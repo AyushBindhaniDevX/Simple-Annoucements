@@ -1,2 +1,7 @@
-# Simple-Annoucements
-Simple disocrd.js annoucements bot help you to make annoucements for you server with good looking embed
+# Simple-Announcements
+Simple disocrd.js announcements bot help you to make annoucements for you server with good looking embed.
+TODO:
+- Add set announcements channel command
+- Log all announcements in JSON file
+- Add list of all announcements command
+- More soon.
