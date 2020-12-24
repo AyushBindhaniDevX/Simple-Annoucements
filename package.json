@@ -1,15 +1,25 @@
 {
-  "name": "testbot",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+
+  "name": "Example",
+
+  "description": "Example",
+
+  "version": "0.0.0",
+
+  "main": "bot.js",
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+
+    "start": "node bot.js"
+
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+
   "dependencies": {
-    "discord.js": "^12.5.1"
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
   }
+
 }
