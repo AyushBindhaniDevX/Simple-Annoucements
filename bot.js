@@ -37,5 +37,4 @@ client.on('message', message => {
       }
 });
 
-
-client.login(NzkwMTc4OTU3NTgzOTc0NDAx.X981gA.4MKZ7scw-6Od7Vc4SmNPLO2P4tA);
+client.login(process.env.BOT_TOKEN);//BOT_TOKEN is the Client Secret
