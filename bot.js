@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 
 const client = new Discord.Client();
-const { prefix, token } = require('./config.json');
+const prefix = "!"
 
 client.on('ready', () =>{
    console.log(`${client.user.tag} system online.`);
